@@ -34,21 +34,6 @@ Learn and apply tree-based models for classification and regression using Scikit
    - Use `cross_val_score` or `cross_validate` for robust model evaluation.
    - Report average performance metrics (e.g., accuracy, F1 score).
 
-## How to Run
-
-1. Install dependencies:
-   ```bash
-   pip install scikit-learn graphviz matplotlib seaborn
-   ```
-
-2. Run the script or Jupyter Notebook provided:
-   ```bash
-   python decision_tree_random_forest.py
-   ```
-
-3. Ensure Graphviz is installed on your system to visualize trees:
-   - [Graphviz Installation Guide]
-
 ## Results
 
 - Decision Tree performance vs. Random Forest performance
