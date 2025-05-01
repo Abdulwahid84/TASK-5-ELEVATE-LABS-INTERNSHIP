@@ -40,8 +40,3 @@ Learn and apply tree-based models for classification and regression using Scikit
 - Tree depth vs. accuracy plot
 - Visualized decision tree
 - Feature importance chart
-
-## Notes
-
-- Try tuning hyperparameters like `max_depth`, `n_estimators`, and `min_samples_split`.
-- Use different datasets (e.g., Iris, Wine, Breast Cancer) to practice generalization.
